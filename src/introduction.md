@@ -21,3 +21,5 @@ why is caps, yelling text using @?
 
 I don't know, just a special format I saw somewhere.
 It's like a logical separator instead of dots.
+
+We are three different personalities by the way.
