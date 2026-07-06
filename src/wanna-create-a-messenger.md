@@ -1,0 +1,25 @@
+Wanna create a messenger. Why? Because it is cool. How?
+
+yee just go on with whatever language and implement that
+
+NO THATS NOT HOW IT WORKS LOL
+@
+THERE ARE ALREADY IMPLEMENTED PROTOCOLS
+@
+YOU CANT JUST REINVENT IT OUT OF NOWHERE
+@
+IT WILL BE NONSENSE NOT COMPATIBLE WITH ANYTHING
+
+u mean irc / xmpp / matrix?
+
+YES, YOU SHOULD INTEGRATE WITH THEM INSTEAD
+@
+THERE'S A WHOLE ECOSYSTEM AROUND THEM
+
+but the OP may want to implement something himself to learn
+
+ITS STILL GOOD, BUILD YOUR OWN CLIENT FOR A MATRIX CLIENT
+@
+IF U MANAGE HOW TO DO THIS
+@
+YOU ARE GOOD TO GO THEN
