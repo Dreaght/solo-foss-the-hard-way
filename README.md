@@ -1,5 +1,8 @@
 # solo-foss-the-hard-way
-(WORK IN PROGRESS) Do stuff properly: never code and never contribute.
+
+A manifest for not office workers, but for
+solo self-taught developers who tired of how hard it became
+to find an information for knowledge.
 
 ## Licence
 
