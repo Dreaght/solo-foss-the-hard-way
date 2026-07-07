@@ -9,3 +9,9 @@ it has a bug in its compiler
 so it's raw yet
 
 Well, okay, then I'll just use Rust for this CLI tool.
+
+WRITE A SPEC SO U DEAL WITH EDGE CASES BEFOREHAND IN ENGLISH
+@
+INSTEAD OF RUST
+@
+ENABLE ALL THE LINTS POSSIBLE
