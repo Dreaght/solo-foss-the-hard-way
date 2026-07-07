@@ -15,3 +15,9 @@ WRITE A SPEC SO U DEAL WITH EDGE CASES BEFOREHAND IN ENGLISH
 INSTEAD OF RUST
 @
 ENABLE ALL THE LINTS POSSIBLE
+
+LETS BE AS VERBOSE AS POSSIBLE
+
+no, don't need, u should be as minimal as possible
+
+comply with everything at the minimal cost
