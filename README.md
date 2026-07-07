@@ -9,6 +9,9 @@ between three persons. Then I'll be refactoring
 into structures, expanding them. It's for low 
 cognitive load for me.
 
+It will be first a collection of different decisions
+so I can collapse them into a meaningful read later.
+
 ## Licence
 
 Attribution-NonCommercial-ShareAlike 4.0 International
